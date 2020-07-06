@@ -129,6 +129,10 @@ body {
   text-decoration: none;
 }
 
+.project-img {
+  height: 180px !important;
+}
+
 section {
   scroll-snap-align: start;
   padding-top: 120px;
