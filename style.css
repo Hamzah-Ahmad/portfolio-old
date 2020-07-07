@@ -130,7 +130,7 @@ body {
 }
 
 .project-img {
-  height: 180px !important;
+  height: 180px;
 }
 
 section {
@@ -210,6 +210,10 @@ section#contact {
   .main-header-text {
     font-size: 35px;
     font-weight: bold;
+  }
+
+  .project-img {
+    /* height: 180px; */
   }
 
   @keyframes typing {
